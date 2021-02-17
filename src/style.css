@@ -1,0 +1,35 @@
+body{
+    background: #eee;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(56, 55, 55);
+    background: #eee  }
+.btn{
+    background: lightgoldenrodyellow;
+    margin: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.add-btn{
+    background: rgb(240, 128, 128);
+   
+}
+.app-title{
+    text-align: center;
+    color: rgb(110, 187, 212);
+    font-size: 70px;
+}
+.container{
+    border: 5px solid rgb(110, 187, 212);
+    border-radius: 25px;
+
+}
